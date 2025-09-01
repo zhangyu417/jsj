@@ -1,0 +1,14 @@
+module.exports={
+    //支持的框架列表
+    projects:[
+        'h5',
+        'vue',
+        'react'
+    ],
+    //仓库的git地址
+    gitrepo:{
+        'h5':'',
+        'vue':'',
+        'react':''
+    }
+}
